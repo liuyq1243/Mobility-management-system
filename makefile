@@ -1,0 +1,2 @@
+Management_system:Analyse.h Analyse.cpp ConstDefine.h FileRelated.h FileRelated.cpp InfoManage.h InfoManage.cpp Login.h Login.cpp main.cpp Menu.h Menu.cpp Query.h Query.cpp base64.h base64.cpp AccountRelate.cpp AccountRelate.h
+	g++ Analyse.h Analyse.cpp ConstDefine.h FileRelated.h FileRelated.cpp InfoManage.h InfoManage.cpp Login.h Login.cpp main.cpp Menu.h Menu.cpp Query.h Query.cpp base64.h base64.cpp AccountRelate.cpp AccountRelate.h -static -o Management_system
